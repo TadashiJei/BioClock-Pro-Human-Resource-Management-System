@@ -134,7 +134,7 @@ When you purchase BioClock Pro, you receive:
 
 ## Support & Documentation
 For support inquiries and documentation:
-- Email: [Your contact email]
+- Email: hi@tadashijei.com
 - Technical documentation included
 - User manuals provided
 - Direct developer support available
